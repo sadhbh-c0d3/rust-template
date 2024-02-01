@@ -23,7 +23,7 @@ Next run:
     ./enter-app.sh
 ```
 
-And now you're inside Docker container with Rust installed. Happy days :)
+And now you're inside Docker container with Rust installed. Happy days 😉
 
 You can run this to compile some example program in Rust:
 
