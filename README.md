@@ -1,4 +1,4 @@
-![rust-template](https://github.com/sadhbh-c0d3/rust-template/assets/80485211/c415872c-be6e-4f7f-852f-a69d6cebb37e)
+![rust-template](https://github.com/sadhbh-c0d3/rust-template/assets/80485211/9bf8b89d-c413-4628-936f-3912feb41d8a)
 
 # Dockerized Rust Template
 
